@@ -1,6 +1,7 @@
 # Projek-Rekayasa-Data-dan-Multimedia
 
 To Complete RDM task….
+
 Text: Indexing Text and Image
 
 A. Text Indexing:
@@ -8,6 +9,7 @@ A. Text Indexing:
 - Open your downloaded file and extract it.
 - Go to Swish-e folder and start by syntax (swish-e -c filename.conf).
 - Indexing done.
+
 B. Image Indexing:
 
 - Clone the targeted github (git clone https://github.com/kudeh/image-search-engine).
