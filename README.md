@@ -16,10 +16,13 @@ A. Text Indexing:
 ![textindexing](./Text-Indexing/Screenshots/Image/2.PNG)
 
 - Go to Swish-e folder and start by syntax (swish-e -c filename.conf).
-- Indexing done.
+- Check the indexing.
 
 ![textindexing](./Text-Indexing/Screenshots/Image/3.PNG)
 
+- Indexing done.
+
+![textindexing](./Text-Indexing/Screenshots/Image/4.PNG)
 
 
 
